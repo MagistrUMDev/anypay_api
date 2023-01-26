@@ -14,15 +14,6 @@ Install AnyPay API with pip
   pip install anypay_api
   cd my-project
 ```
-    
-## Environment Variables
-
-To use the class, you need to provide API_KEY and API_ID
-
-`API_KEY`
-
-`API_ID`
-
 
 
 
